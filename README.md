@@ -121,8 +121,9 @@ show_train_history(train_history,'accuracy','val_accuracy')
 # 繪製損失值 (Loss) 變化圖
 show_train_history(train_history,'loss','val_loss')
 ```
+![image](https://github.com/potatochips22/AI-CIFAR-10-Keras-CNN-/blob/main/train%20history.png)
+![image](https://github.com/potatochips22/AI-CIFAR-10-Keras-CNN-/blob/main/train%20history2.png)
 
-![image](https://github.com/potatochips22/AI-CIFAR-10-Keras-CNN-/blob/main/%E6%88%AA%E5%9C%96%202025-10-27%20%E4%B8%8A%E5%8D%8811.30.41.png)
 
 ### 5\. 最終效能評估
 
@@ -140,6 +141,8 @@ print("Accuracy: %.2f%%" % (scores[1] * 100))
 313/313 ━━━━━━━━━━━━━━━━━━━━ 1s 2ms/step - accuracy: 0.6761 - loss: 1.3896
 Accuracy: 67.42%
 ```
+
+![image](https://github.com/potatochips22/AI-CIFAR-10-Keras-CNN-/blob/main/%E6%88%AA%E5%9C%96%202025-10-27%20%E4%B8%8A%E5%8D%8811.30.41.png)
 
 ### 6\. 建立混淆矩陣 (Confusion Matrix)
 
