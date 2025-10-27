@@ -122,7 +122,7 @@ show_train_history(train_history,'accuracy','val_accuracy')
 show_train_history(train_history,'loss','val_loss')
 ```
 
-![image]([picture or gif url](https://github.com/potatochips22/AI-CIFAR-10-Keras-CNN-/blob/main/%E6%88%AA%E5%9C%96%202025-10-27%20%E4%B8%8A%E5%8D%8811.30.41.png))
+![image]([(https://github.com/potatochips22/AI-CIFAR-10-Keras-CNN-/blob/main/%E6%88%AA%E5%9C%96%202025-10-27%20%E4%B8%8A%E5%8D%8811.30.41.png))
 
 ### 5\. 最終效能評估
 
